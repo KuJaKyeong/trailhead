@@ -14,7 +14,7 @@ export default class MyFirstWebComponent extends LightningElement {
         },
         {
             Id: 3,
-            Name: 'Jennifer Wu',
+            Name: 'Jennifer Wu test',
             Title: 'CEO',
         },
     ];
